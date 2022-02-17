@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatrimonioAPI", "PatrimonioAPI.csproj", "{D9397E40-A090-4D97-940C-3AD270AC4833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9397E40-A090-4D97-940C-3AD270AC4833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9397E40-A090-4D97-940C-3AD270AC4833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9397E40-A090-4D97-940C-3AD270AC4833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9397E40-A090-4D97-940C-3AD270AC4833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00366B30-DC54-45C8-8423-AA184613CBB4}
+	EndGlobalSection
+EndGlobal
